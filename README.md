@@ -4,8 +4,8 @@
 Пароль: qwerty12
 IP: 87.242.103.232
 
-```bash
 переходите в оболчку:
+```bash
 bash
 cd envoriments
 source /hack/bin/activate
