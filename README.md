@@ -15,3 +15,7 @@ https://disk.yandex.ru/client/disk
 
 Здесь сам бот:
 @alignment1Bot
+
+Исходный код для бота лежит здесь:
+alignment_bot-master
+
