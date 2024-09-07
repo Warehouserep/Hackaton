@@ -4,11 +4,13 @@
 Пароль: qwerty12
 IP: 87.242.103.232
 
+```bash
 переходите в оболчку:
 bash
 cd envoriments
 source /hack/bin/activate
-jupyter notebook --no-browser --ip="<ip вашей машины>" &
+jupyter notebook --no-browser --ip="87.242.103.232" &
+```
 
 Дополнительные материалы тут:
 https://disk.yandex.ru/client/disk
