@@ -51,6 +51,9 @@ Alignment Bot — это Telegram-бот, предназначенный для 
 - Bench_and_SinteticData_v13.ipynb
 - Базовый датасет.ipynb
 
+## app.py
+test.api
+
 
 ## Дополнительные материалы:
 Данные для обучения аналогичных финансовых LLM - FinGPT и Finance-Alpaca. 
