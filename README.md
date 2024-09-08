@@ -48,7 +48,7 @@ Alignment Bot — это Telegram-бот, предназначенный для 
 
 ## Датасеты и бенчмарк:
 Так же есть файл там содержится генерация синтетических данных и бенчмарк. 
-- Bench_and_SinteticData_v10.ipynb
+- Bench_and_SinteticData_v13.ipynb
 - Базовый датасет.ipynb
 
 
